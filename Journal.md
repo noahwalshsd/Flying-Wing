@@ -16,4 +16,10 @@ Total time spent on the project: 11hrs +4 unrecorded  |  6/18/26 - 3hr 7min (+4h
 <img width="1198" height="672" alt="image" src="https://github.com/user-attachments/assets/3d7358ba-f7cb-4b10-915b-da2ff3cb5deb" />
 <img width="1182" height="897" alt="image" src="https://github.com/user-attachments/assets/ad03687a-bbeb-4381-bb0a-063bb832d108" />
 <img width="695" height="900" alt="image" src="https://github.com/user-attachments/assets/f60bd03a-45e0-40b2-9c33-ae9a73259c01" />
+
 6/27/26: CAD was pretty much finalized, ballast was created, documentation was done, and I re-coded everything to make it better.
+<img width="486" height="657" alt="image" src="https://github.com/user-attachments/assets/4c72fad4-2075-4750-b722-57ae879d751f" />
+<img width="1384" height="700" alt="image" src="https://github.com/user-attachments/assets/b7abc9d1-dedd-4ae3-995b-8b34c28ba70d" />
+<img width="1600" height="478" alt="image" src="https://github.com/user-attachments/assets/93db8f76-c8fc-4f84-bf47-8c8a8ac92fd3" />
+<img width="1579" height="778" alt="image" src="https://github.com/user-attachments/assets/caec9444-08bf-443e-969b-6d0bc0b6cbdd" />
+<img width="1377" height="688" alt="image" src="https://github.com/user-attachments/assets/238cc9fc-1ed3-4a3d-8ef9-bd58ac9e5fbc" />
