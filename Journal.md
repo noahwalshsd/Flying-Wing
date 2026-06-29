@@ -1,4 +1,4 @@
-My time was recorded by lookout's timelapse.
+My time was recorded by lookout's timelapse./
 Total time spent on the project: 11hrs +4 unrecorded
 Title: Flying Wing
 Author: Me, Noah Walsh
