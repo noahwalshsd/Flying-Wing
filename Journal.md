@@ -36,7 +36,7 @@ First try at coding something. I tried to balance both the elevons. I also made 
 <img width="695" height="900" alt="image" src="https://github.com/user-attachments/assets/f60bd03a-45e0-40b2-9c33-ae9a73259c01" />
 
 # 6/27/26: 1hr 30min  
-CAD was pretty much finalized, ballast was created, documentation was done, and I re-coded everything to make it better. The drone seems done; will submit now.
+CAD was pretty much finalized, ballast was created, documentation was done, and I re-coded everything to make it better. The drone seems done; will submit now.  
 <img width="486" height="657" alt="image" src="https://github.com/user-attachments/assets/4c72fad4-2075-4750-b722-57ae879d751f" />
 <img width="1384" height="700" alt="image" src="https://github.com/user-attachments/assets/b7abc9d1-dedd-4ae3-995b-8b34c28ba70d" />
 <img width="1600" height="478" alt="image" src="https://github.com/user-attachments/assets/93db8f76-c8fc-4f84-bf47-8c8a8ac92fd3" />
