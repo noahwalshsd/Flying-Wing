@@ -17,26 +17,26 @@ Lots of Air Foil research, balancing and electronics research. Also made the bod
 <img width="1385" height="900" alt="image" src="https://github.com/user-attachments/assets/1d9bb1f4-35a9-4205-a4ba-d65dda89ec53" />
 
 # 6/21/26: 
-Modeling was modified to fit components, Center of gravity was moved by new components, still desperately needs adjustment. Center of gravity and lift locations were calculated. 
+Modeling was modified to fit components, Center of gravity was moved by new components, still desperately needs adjustment. Center of gravity and lift locations were calculated. I nearly finalized a parts list, built models of the electronics parts, and assigned their weights. I put the airframe on my slicer and got a weight of about 120g. I assigned their weights to have onshape calculate the center of mass.
 <img width="759" height="654" alt="image" src="https://github.com/user-attachments/assets/6a2612ac-c3a1-473c-9a65-5a937297edc5" />
 <img width="897" height="744" alt="image" src="https://github.com/user-attachments/assets/9797111e-2a0c-4131-90aa-870c12d3f39e" />
 <img width="1137" height="585" alt="image" src="https://github.com/user-attachments/assets/918b9412-eb92-4848-9af6-abd5b9128f2f" />
 
 # 6/22/26:
-Added servo place in center piece, modified the drone to fit everything, made a rudder instead of winglets. Helped balance the drone to limit tail-heaviness. Still too tail-heavy :(.
+Added servo place in center piece, modified the drone to fit everything, made a rudder instead of winglets. Helped balance the drone to limit tail-heaviness. Still too tail-heavy :(. The holes were made so that parts are not sitting atop the drone and creating too much drag. 
 <img width="1445" height="635" alt="image" src="https://github.com/user-attachments/assets/5d8383a7-ccf6-4382-8460-089128f92072" />
 <img width="968" height="712" alt="image" src="https://github.com/user-attachments/assets/31c44712-4f64-417e-ad54-3fd266bebd16" />
 <img width="973" height="813" alt="image" src="https://github.com/user-attachments/assets/9f9be921-a528-4433-86fa-10ee3e4a98e0" />
 <img width="748" height="453" alt="image" src="https://github.com/user-attachments/assets/2e72a7e2-81e9-4bbe-8461-07d67c5a1a23" />
 
 # 6/26/26: 
-First try at coding something. I tried to balance both the elevons. I also made a schematic to show how the wiring will be done. I also used paper airplanes to prove the effect of fluids on the wings with different elevon positions.
+First try at coding something. I tried to balance both the elevons. I also made a schematic to show how the wiring will be done. I also used paper airplanes to prove the effect of fluids on the wings with different elevon positions. I hand-coded nearly all of it, then used AI to sanity-check and correct my code. 
 <img width="1198" height="672" alt="image" src="https://github.com/user-attachments/assets/3d7358ba-f7cb-4b10-915b-da2ff3cb5deb" />
 <img width="1182" height="897" alt="image" src="https://github.com/user-attachments/assets/ad03687a-bbeb-4381-bb0a-063bb832d108" />
 <img width="695" height="900" alt="image" src="https://github.com/user-attachments/assets/f60bd03a-45e0-40b2-9c33-ae9a73259c01" />
 
 # 6/27/26: 
-CAD was pretty much finalized, ballast was created, documentation was done, and I re-coded everything to make it better.
+CAD was pretty much finalized, ballast was created, documentation was done, and I re-coded everything to make it better. The drone seems done; will submit now.
 <img width="486" height="657" alt="image" src="https://github.com/user-attachments/assets/4c72fad4-2075-4750-b722-57ae879d751f" />
 <img width="1384" height="700" alt="image" src="https://github.com/user-attachments/assets/b7abc9d1-dedd-4ae3-995b-8b34c28ba70d" />
 <img width="1600" height="478" alt="image" src="https://github.com/user-attachments/assets/93db8f76-c8fc-4f84-bf47-8c8a8ac92fd3" />
