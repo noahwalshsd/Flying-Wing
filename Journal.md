@@ -1,9 +1,11 @@
-My time was recorded by lookout's timelapse./
+My time was recorded by lookout's timelapse.
+
 Total time spent on the project: 11hrs +4 unrecorded
+
 Title: Flying Wing
 Author: Me, Noah Walsh
 Description: Flying drone for fun!
-
+/n
 6/18/26 - 3hr 7min (+4hrs research not recorded) - 6/21/26 2hr 26min - 6/22/26 2hr 33min - 6/26/26 1hr 32min - 6/27/26 1hr 30min
 6/18/26: Lots of Air Foil research, balancing and electronics research. Also made the body through trial and error, then beautification. 3d modeled it and found that when I put it on my slicer, it weighed 60g for each side, so the 3D printed parts will be around 120g total. Also spent a lot of time researching weights for small wing lengths of 20 inches. I also researched elecronics HEAVILY.
 <img width="972" height="900" alt="image" src="https://github.com/user-attachments/assets/c84df95b-81d9-49b3-b04b-f7bbaec48667" />
