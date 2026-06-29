@@ -1,9 +1,7 @@
-My time was recorded by lookout's timelapse.
-
-Total time spent on the project: 11hrs +4 unrecorded
-
-Title: Flying Wing
-Author: Me, Noah Walsh
+My time was recorded by lookout's timelapse. /n
+Total time spent on the project: 11hrs +4 unrecorded /n
+Title: Flying Wing /n
+Author: Me, Noah Walsh /n
 Description: Flying drone for fun!
 /n
 6/18/26 - 3hr 7min (+4hrs research not recorded) - 6/21/26 2hr 26min - 6/22/26 2hr 33min - 6/26/26 1hr 32min - 6/27/26 1hr 30min
