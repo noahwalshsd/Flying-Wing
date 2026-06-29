@@ -8,3 +8,4 @@ This is a flying wing plane that will eventually have self-leveling capabilities
 <img width="692" height="350" alt="image" src="https://github.com/user-attachments/assets/46de52e5-99b2-49c5-9051-03f19afe2b24" />
 <img width="1198" height="672" alt="image" src="https://github.com/user-attachments/assets/d1b49dac-f0ff-4981-bd88-607ed73f38a3" />
 <img width="1182" height="897" alt="image" src="https://github.com/user-attachments/assets/2adcf286-2059-4488-99bb-b2d91d8e0bc1" />
+<img width="972" height="1314" alt="image" src="https://github.com/user-attachments/assets/40750030-6b6d-4f99-bcfe-15a649bad0bb" />
