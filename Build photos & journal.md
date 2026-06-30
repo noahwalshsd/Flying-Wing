@@ -1,0 +1,2 @@
+#6/29/26 2 hrs 30 mins:  
+https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/collapse/timelapses/795e5e27-7860-432e-933b-553ab3faaca2/timelapse.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=0202b4ab358a840324620139ad382aee%2F20260630%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260630T074742Z&X-Amz-Expires=3600&X-Amz-Signature=d9f63eff868b2afeabb3fc506e47322e4c2d588f30b02d4ffb4fbb3c9c0b2cfb&X-Amz-SignedHeaders=host&x-id=GetObject
